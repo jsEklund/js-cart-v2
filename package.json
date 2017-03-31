@@ -1,8 +1,8 @@
 {
-  "name": "js-cart",
+  "name": "js-cart v2",
   "version": "1.0.0",
   "private": true,
-  "description": "Simple cart to test out oojs",
+  "description": "Simple JavaScript cart built with prototypes",
   "scripts": {
   },
   "keywords": [],
