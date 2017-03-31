@@ -1,2 +1,2 @@
 # js-cart
-"Simple JavaScript cart built with prototypes
+Simple JavaScript cart built with prototypes
