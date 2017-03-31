@@ -1,0 +1,16 @@
+{
+  "name": "js-cart",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple cart to test out oojs",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "jsEklund",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
